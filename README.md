@@ -100,8 +100,7 @@ If you have any questions regarding licensing - please contact us. <sales@anycha
 
 <img src="images/fullcalendar.png"  alt="Using FullCalendar library to display the calendar">
 
-Fullcalendar is licensed under the MIT License
-A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
+Fullcalendar is licensed under the MIT License. A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
 
 #### Permissions
 :heavy_check_mark: Commercial use
