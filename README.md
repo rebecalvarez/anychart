@@ -1,7 +1,7 @@
-[<img src="https://cdn.anychart.com/images/logo-transparent-segoe.png?2" width="234px" alt="AnyChart - Robust JavaScript/HTML5 Chart library for any project">](https://www.anychart.com)
-# PHP basic template
 
-This example shows how to use Anychart library with the PHP programming language and MySQL database provided by Givepulse.
+# PHP Anychart for GivePulse - Home Page
+
+On the Home Page This example shows the 5 top volunteers for GivePulse by Hours using the bar Anychart library, with the PHP programming language and MySQL database provided by Givepulse.
 
 ## Running
 
@@ -87,3 +87,4 @@ If you have any questions regarding licensing - please contact us. <sales@anycha
 
 [![Analytics](https://ga-beacon.appspot.com/UA-228820-4/Integrations/plain-php-mysql-template?pixel&useReferer)](https://github.com/igrigorik/ga-beacon)
 
+[<img src="https://cdn.anychart.com/images/logo-transparent-segoe.png?2" width="234px" alt="AnyChart - Robust JavaScript/HTML5 Chart library for any project">](https://www.anychart.com)
