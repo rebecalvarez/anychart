@@ -8,13 +8,15 @@ so we can connect the user_id on the Impacts table with the names on the Users t
 
 The page is responsive to any device using a Navigation and Container elements from Bootstrap.
 
-<img src="images/home.png"  alt="Using AnyChart library to display the calendar">
+<img src="images/home.png"  alt="Using AnyChart library to display the bar chart">
 
 # Full Calendar - Calendar Page
 
 FullCalendar.io JavaScript was added to manage events with a PHP calendar. An event can be added and deleted by clicking on the chosen date.
 The event CRUD operations are requested via AJAX using this library callbacks.
 The page is responsive to any device using a Navigation and Container elements from Bootstrap.
+
+<img src="images/calendar.png"  alt="Using FullCalendar library to display the calendar">
 
 ## Running
 
@@ -59,7 +61,7 @@ Set up MySQL database, use `-u -p` flags to provide username and password:
 $  mysql < givepulse_test.sql
 ```
 
-Drop `index.php`, `data.php`, `calendar.php`,`js`folder and `css` folder to a folder where you serve your .php files and your server (e.g. Apache or Nginx) could get them.
+Drop `index.php`, `data.php`, `calendar.php`,`js` and `css`folder and folders to a folder where you serve your .php files and your server (e.g. Apache or Nginx) could get them.
 Open browser at an appropriate url.
 
 Now you can update MySQL database data, run (don't forget to use `-u -p` flags if you need):
@@ -73,22 +75,12 @@ To finally run the application:
 $  php -S localhost:8080php
 ```
 
-## Workspace
-Your workspace should look like:
-```
-anychart/
-   
-        css/
-            style.css       # css style
-    index.php               # main PHP file including HTML file
-    data.php                # PHP file which loads data from MySQL
-    LICENSE
-    README.md
-```
 
 ## Technologies
 Language - [PHP](http://php.net)<br />
+Language - [JavaScript](https://www.javascript.com/)<br />
 Database - [MySQL](https://www.mysql.com/)<br />
+Style - [Bootstrap](https://getbootstrap.com/)
 
 
 ## License
@@ -101,3 +93,23 @@ If you have any questions regarding licensing - please contact us. <sales@anycha
 [![Analytics](https://ga-beacon.appspot.com/UA-228820-4/Integrations/plain-php-mysql-template?pixel&useReferer)](https://github.com/igrigorik/ga-beacon)
 
 [<img src="https://cdn.anychart.com/images/logo-transparent-segoe.png?2" width="234px" alt="AnyChart - Robust JavaScript/HTML5 Chart library for any project">](https://www.anychart.com)
+
+### FullCalendar
+
+fullcalendar/fullcalendar is licensed under the
+
+MIT License
+A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
+
+Permissions
+:heavy_check_mark: Commercial use
+:heavy_check_mark: Modification
+:heavy_check_mark: Distribution
+:heavy_check_mark: Private use
+
+Limitations
+:x: Liability
+:x: Warranty
+
+Conditions
+ License and copyright notice
