@@ -83,7 +83,12 @@ Database - [MySQL](https://www.mysql.com/)<br />
 Style - [Bootstrap](https://getbootstrap.com/)
 
 
-## License
+## Licenses
+
+
+[<img src="https://cdn.anychart.com/images/logo-transparent-segoe.png?2" width="234px" alt="AnyChart - Robust JavaScript/HTML5 Chart library for any project">](https://www.anychart.com)
+
+
 AnyChart PHP/MySQL integration sample includes two parts:
 - Code of the integration sample that allows to use Javascript library (in this case, AnyChart) with PHP language and MySQL database. You can use, edit, modify it, use it with other Javascript libraries without any restrictions. It is released under [Apache 2.0 License](https://github.com/anychart-integrations/plain-php-mysql-template/blob/master/LICENSE).
 - AnyChart JavaScript library. It is released under Commercial license. You can test this plugin with the trial version of AnyChart. Our trial version is not limited by time and doesn't contain any feature limitations. Check details [here](https://www.anychart.com/buy/).
@@ -92,24 +97,24 @@ If you have any questions regarding licensing - please contact us. <sales@anycha
 
 [![Analytics](https://ga-beacon.appspot.com/UA-228820-4/Integrations/plain-php-mysql-template?pixel&useReferer)](https://github.com/igrigorik/ga-beacon)
 
-[<img src="https://cdn.anychart.com/images/logo-transparent-segoe.png?2" width="234px" alt="AnyChart - Robust JavaScript/HTML5 Chart library for any project">](https://www.anychart.com)
 
-### FullCalendar
+<img src="images/fullcalendar.png"  alt="Using FullCalendar library to display the calendar">
 
 fullcalendar/fullcalendar is licensed under the
 
 MIT License
 A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
 
-Permissions
+#### Permissions
 :heavy_check_mark: Commercial use
 :heavy_check_mark: Modification
 :heavy_check_mark: Distribution
 :heavy_check_mark: Private use
 
-Limitations
+#### Limitations
 :x: Liability
 :x: Warranty
 
-Conditions
+#### Conditions
  License and copyright notice
+
