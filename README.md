@@ -3,6 +3,19 @@
 
 On the Home Page This example shows the 5 top volunteers for GivePulse by Hours using the bar Anychart library, with the PHP programming language and MySQL database provided by Givepulse.
 
+The chart data is taking from two tables, the Users and the Impacts, those two are LEFT JOIN
+so we can connect the user_id on the Impacts table with the names on the Users table. Once that's done, the query ORDER BY duration_hours and just limits the information to 5 rows.
+
+The page is responsive to any device using a Navigation and Container elements from Bootstrap.
+
+<img src="images/home.png"  alt="Using AnyChart library to display the calendar">
+
+# Full Calendar - Calendar Page
+
+FullCalendar.io JavaScript was added to manage events with a PHP calendar. An event can be added and deleted by clicking on the chosen date.
+The event CRUD operations are requested via AJAX using this library callbacks.
+The page is responsive to any device using a Navigation and Container elements from Bootstrap.
+
 ## Running
 
 To use this application you must have PHP installed, if not, please, install it as described [here](http://php.net/manual/en/faq.installation.php);
